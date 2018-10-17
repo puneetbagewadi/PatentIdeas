@@ -1,0 +1,23 @@
+{
+  "name": "patentideas",
+  "version": "1.0.0",
+  "description": "A simple project to demonstrate CRUD operations using node and MongoDB. This application enables user to store/edit/delete ideas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/puneetbagewadi/PatentIdeas.git"
+  },
+  "author": "Puneet Bagewadi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/puneetbagewadi/PatentIdeas/issues"
+  },
+  "homepage": "https://github.com/puneetbagewadi/PatentIdeas#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.0"
+  }
+}
